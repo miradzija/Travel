@@ -54,7 +54,7 @@ h3 {
 button,
 select,
 input {
-  background-color: #ffebb3;
+  background-color: #f4a226;
   color: #5a3e2b;
   font-family: inherit;
   border: none;
@@ -67,7 +67,7 @@ input {
 
 .add-form button {
   text-transform: uppercase;
-  background-color: #76c7ad;
+  background-color: #f4a226;
 }
 
 .list {
@@ -84,6 +84,7 @@ input {
 
 .actions button,
 .list select {
+  background-color: #f4a226;
   text-transform: uppercase;
   padding: 0.8rem 2.4rem;
   font-size: 1.4rem;
@@ -92,6 +93,7 @@ input {
 }
 
 .list ul {
+  background-color: #5a3e2b;
   list-style: none;
   width: 80%;
   overflow: hidden;
@@ -125,7 +127,7 @@ input[type="checkbox"] {
 }
 
 .stats {
-  background-color: #76c7ad;
+  background-color: #f4a226;
   text-align: center;
   font-weight: 700;
   padding: 3.2rem 0;
